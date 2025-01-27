@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to undef value handling within a while loop. The script aims to count occurrences of 'apple' and 'banana' and assign corresponding values. However, the initial undef value of \$value leads to unexpected output. The bugSolution.pl file provides a corrected version.
